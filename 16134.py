@@ -10,3 +10,4 @@ for i in range(min(K, N - K)):
 invb = pow(b, p - 2, p)
 ans = a * invb % p
 print(ans)
+print("what is this code?")
