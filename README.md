@@ -1,62 +1,40 @@
-# week-10
+## BOJ17103 <골드바흐 파티션>
 
-- 2023.01.16 ~ 2023.01.22
+- [문제 원본](https://www.acmicpc.net/problem/17103)
+- [BOJ17103.java](BOJ17103.java)
+- [코드 설명](https://yback.oopy.io/750ee23c-e0c6-475d-aa01-075942959508)
 
-## 🧑🏻‍💻👩🏻‍💻 과제 시작 전에
+## BOJ1484 <다이어트>
+- [문제 원본](https://www.acmicpc.net/problem/1484)
+- [BOJ1484.java](BOJ1484.java)
+- [코드 설명](https://yback.oopy.io/bde7477f-69aa-4604-b167-05ba413c6711)
 
-문제를 풀고 제출하는 방법을 알려드립니다.
+## BOJ1456 <거의 소수>
+- [문제 원본](https://www.acmicpc.net/problem/1456)
+- [BOJ1456.java](BOJ1456.java)
+- [코드 설명](https://yback.oopy.io/21725c61-c710-4a0c-85ac-823c5ae41664)
 
-### 문제풀기
+## BOJ1990 <소수인팰린드롬>
+- [문제 원본](https://www.acmicpc.net/problem/1990)
+- [BOJ1990.java](BOJ1990.java)
+- [코드 설명](https://yback.oopy.io/9d74e935-f3a4-436c-83f4-a7ef1784d310)
 
-1. 레포지토리를 **클론**해줍니다.
-2. 그러고 나서 디렉토리에 들어가보면 현재 브랜치가 'main'으로 되어있을텐데, **각자의 브랜치**를 만들어서 그 공간에서만 커밋과 푸시를 해줍니다.
+## BOJ16563 <어려운 소인수분해>
+- [문제 원본](https://www.acmicpc.net/problem/16563)
+- [BOJ16563.java](BOJ16563.java)
+- [코드 설명](https://yback.oopy.io/83169e9b-4872-40aa-adf9-c008c62ee858)
 
-브랜치 이름은 **각자의 이름**으로 !!! 브랜치를 만드는 방법은 아래와 같습니다.
+## BOJ2904 <수학은 너무 쉬워>
+- [문제 원본](https://www.acmicpc.net/problem/2904)
+- [BOJ2904.java](BOJ2904.java)
+- [코드 설명](https://yback.oopy.io/81822b12-35b9-498b-892d-c0f3bbf31763)
 
-```git
-git checkout -b chanwoong // 자신의 이름
-```
+## BOJ1153 <네 개의 소수>
+- [문제 원본](https://www.acmicpc.net/problem/1153)
+- [BOJ1153.java](BOJ1153.java)
+- [코드 설명](https://yback.oopy.io/694eba0f-5c29-4047-a340-fccc8dd8239a)
 
-브랜치마다 각자 개별 작업을 할 수 있으니 병합만 하지말아주세요.  
-**❌ 절대로 main 브랜치에 merge 하지 말아주세요 !!! ❌**
-
-### 추가 사항
-
-기본적으로 파이썬으로 문제를 푸는것을 목표로 하고 있습니다.
-
-그러나 다른 언어를 사용해도 괜찮습니다. 하지만 파이썬과 다른 함수 혹은 메서드를 사용한다면 간단하게 어떤 과정을 수행하는지 주석을 넣어주세요,
-
-파이썬 사용하시는 분들도 어떤 의도로 코딩을 하셨는지 주석을 넣어주신다면 더욱 좋습니다 !
-
-### 제출하기
-
-과제를 다 푸셨다면 제출을 해주시면 됩니다. 제출 시 우리는 **Pull Request** 방법을 사용할 겁니다.
-
-1. 웹에서 https://github.com/42-codingtest-study/week-05 창을 켭니다.
-2. 메뉴에서 Pull requests를 눌러줍니다.
-3. 오른쪽에 New pull request 클릭 !
-4. base:main <- compare:main 으로 되어있다면 compare 항목 눌러서 **자신의 브랜치로 변경**
-5. 'ooo 과제 완료' 입력 후 제출 👏🏻
-
----
-
-이번 주는 **정수론**에 대해서 알아보겠습니다.
-문제는 다음과 같습니다.
-
-## 🤓 mandatory part
-
-- [골드바흐 파티션](https://www.acmicpc.net/problem/17103)
-- [다이어트](https://www.acmicpc.net/problem/1484)
-- [거의 소수](https://www.acmicpc.net/problem/1456)
-- [소수인팰린드롬](https://www.acmicpc.net/problem/1990)
-- [어려운 소인수분해](https://www.acmicpc.net/problem/16563)
-
-## 🧐 bonus part
-
-한번 도전해볼만 한 문제 -> 저번 주에 했던거 복습 + 심화
-
-- [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904)
-- [네 개의 소수](https://www.acmicpc.net/problem/1153)
-- [조합(Combination)](https://www.acmicpc.net/problem/16134)
-
-<br>그럼 모두 파이팅 !!! 🔥🔥🔥
+## BOJ16134 <네 개의 소수>
+- [문제 원본](https://www.acmicpc.net/problem/16134)
+- [BOJ16134.java](BOJ16134.java)
+- [코드 설명](https://yback.oopy.io/ddd552dd-51df-4eab-a0bc-104c532dfb3b)
