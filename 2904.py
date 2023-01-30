@@ -1,7 +1,6 @@
 # 수학은 너무 쉬워
 # https://www.acmicpc.net/problem/2904
 
-# 도중에 틀린다 .. 테케좀 ...
 N = int(input())
 lst = list(map(int, input().split()))
 prime = [True] * 1000001
@@ -33,7 +32,7 @@ for i in lst :
     ans.append(fn(i))
 answer = 1
 count = 0
-for i in range(len(prime_lst[ : 10])) :
+for i in range(len(prime_lst)) :
     cnt = whole[prime_lst[i]] // N
     for j in range(N) :
         if cnt > ans[j][i] :
